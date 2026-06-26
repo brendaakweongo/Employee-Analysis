@@ -29,5 +29,9 @@ The dashboard was designed to answer the following business questions:
 - DAX Calculations
 - Interactive Dashboard Design
 - Business Intelligence Reporting
+
+### Dashboard Preview
+
+![Dashboard Screenshot](Employee%20Analysis.png)
 - HR Data Analysis
 - Data Storytelling
