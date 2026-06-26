@@ -8,9 +8,26 @@ The dashboard answers key business questions regarding employee educational qual
 ### Business Problem
 Human Resource departments often collect large volumes of employee data but struggle to derive actionable insights from it. This project demonstrates how data visualization can simplify HR reporting and help decision-makers quickly understand workforce composition and trends.
 
-### Dashboard Features
+### Objectives
 The dashboard was designed to answer the following business questions:
 
 - What is the distribution of educational qualifications among employees?
 - How does employee length of service vary across different cities?
 - What is the gender distribution within the workforce?
+
+### Tools Used
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Data Visualization
+
+  ### Skills Demonstrated
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Calculations
+- Interactive Dashboard Design
+- Business Intelligence Reporting
+- HR Data Analysis
+- Data Storytelling
